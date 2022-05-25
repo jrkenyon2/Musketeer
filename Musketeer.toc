@@ -1,6 +1,6 @@
 ## Interface: 20504
 ## Title: Musketeer
 ## Author: Jonathan Kenyon
-## Version: 0.1
+## Version: 0.0.1
 
 main.lua
