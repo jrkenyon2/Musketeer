@@ -5,6 +5,6 @@
     SLASH_MUSKETEER5 = "/Musk"
     SLASH_MUSKETEER6 = "/MUSK"
 
+    MainMenuframe = CreateFrame(Frame, "MainMenu", nil, nil, 1)
 
-
-    SlashCmdList["MUSKETEER"] = ;
+    SlashCmdList["MUSKETEER"] = MainMenuframe;
