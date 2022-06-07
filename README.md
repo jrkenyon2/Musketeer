@@ -17,10 +17,10 @@ Start Date: 5/25/2022
 - Philosophy: authorization, not authentication. Selective permission, not full access.
 - Uses a "secret" to verify the source of an access token.
 - OAuth 1.0 is not compatible with 2.0 and is deprecated. (4/5/2012)
-
+  
 - cURL = confidential URL?
-
-
+  
+  
 ## Lua notes 6/7
 - 1-based indexes
 - Prefers scoped variables to globals of the same name
@@ -35,7 +35,7 @@ Start Date: 5/25/2022
 - ### hashtables can use variables as keys
 - hashtables have no length
 - built-in iterators ignore hashtable order
-
+  
 - ### (--[]) creats a comment block
 - (--) is a single line comment
 - ### Loops
