@@ -1,4 +1,4 @@
-# Musketeer
+# **Musketeer**
  Custom addon for World of Warcraft
 
 The primary purpose of this addon will be to create custom floating nameplates in the gameworld. Other features are planned for the future including a threat meter, dps meter, trash selling, and possibly others.
