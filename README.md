@@ -18,7 +18,7 @@ Start Date: 5/25/2022
   - Uses a "secret" to verify the source of an access token.
   - OAuth 1.0 is not compatible with 2.0 and is deprecated. (4/5/2012)
   - cURL = confidential URL?
-- 
+-&nbsp;
 ## Lua notes 6/7
   - 1-based indexes
   - Prefers scoped variables to globals of the same name
