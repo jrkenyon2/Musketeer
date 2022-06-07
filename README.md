@@ -25,20 +25,20 @@ Start Date: 5/25/2022
   - (..) for concatenation
   - code blocks typically use (end) to close. ex: function/end
   - can use (or) for intialization within a function. ex: a = a or 15 (a is set to 15 if the parameter is nil)
-
+&nbsp;
 - ### (...) can be used as a parameter for an undetermined amount of arguments
   - when assigning (...) to variables a table should be used (tables replace arrays, lists, etc.)
   - if a table is not used (...) number of parameters will be divided by number of variable (local a,b,c totals 3 variables)
   - assignment of (...) will rotate n times ending with an assignment of the last n parameters to n variables
   - if not evenly divided, the last variable/s will be assigned nil
-
+&nbsp;
 - ### hashtables can use variables as keys
   - hashtables have no length
   - built-in iterators ignore hashtable order
-
+&nbsp;
 - ### (--[]) creats a comment block
   - (--) is a single line comment
-
+&nbsp;
 - ### Loops
   - for/do/end
   - for loops increment by one automatically
