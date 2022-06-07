@@ -6,8 +6,8 @@ The primary purpose of this addon will be to create custom floating nameplates i
 The primary language is TBD pending more research.
 
 Start Date: 5/25/2022
-&nbsp;
-&nbsp;
+&NewLine;
+&NewLine;
 ## [OAuth](https://www.varonis.com/blog/what-is-oauth) Notes 6/1
   - Blizzard uses OAuth to protect access to data offered through API's. 
   - This is how addons can affect the game client without asking for the users password.
