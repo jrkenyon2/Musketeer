@@ -6,8 +6,8 @@ The primary purpose of this addon will be to create custom floating nameplates i
 The primary language is TBD pending more research.
 
 Start Date: 5/25/2022
-
-
+&nbsp;
+&nbsp;
 ## [OAuth](https://www.varonis.com/blog/what-is-oauth) Notes 6/1
   - Blizzard uses OAuth to protect access to data offered through API's. 
   - This is how addons can affect the game client without asking for the users password.
@@ -19,6 +19,7 @@ Start Date: 5/25/2022
   - OAuth 1.0 is not compatible with 2.0 and is deprecated. (4/5/2012)
   - cURL = confidential URL?
 -&nbsp;
+&nbsp;
 ## Lua notes 6/7
   - 1-based indexes
   - Prefers scoped variables to globals of the same name
