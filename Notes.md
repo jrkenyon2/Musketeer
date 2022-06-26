@@ -46,6 +46,7 @@ Start Date: 5/25/2022
   - repeat/until is do/while (no 'end' keyword)
   - for/each is for [key, value] /in [iterator]table /do/end
   - no switch/case
+
 &nbsp;
 ##WoW Developer Portal and Frame UI  
 - Sign up for a developer account to get direct access to official documentation - https://www.youtube.com/watch?v=SNdDa4_aN-8 
