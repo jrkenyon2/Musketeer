@@ -7,7 +7,7 @@ The primary language is TBD pending more research.
 
 Start Date: 5/25/2022
 &nbsp;
-## [OAuth](https://www.varonis.com/blog/what-is-oauth) Notes 6/1
+## [OAuth](https://www.varonis.com/blog/what-is-oauth) 
   - Blizzard uses OAuth to protect access to data offered through API's. 
   - This is how addons can affect the game client without asking for the users password.
   - OAuth: Open-standard AUTHorization.
@@ -19,7 +19,7 @@ Start Date: 5/25/2022
   - cURL = confidential URL?
 &nbsp;
 &nbsp;
-## Lua notes 6/7
+## Lua 
   - 1-based indexes
   - Prefers scoped variables to globals of the same name
   - (..) for concatenation
@@ -48,7 +48,7 @@ Start Date: 5/25/2022
   - no switch/case
 
 &nbsp;
-##WoW Developer Portal and Frame UI  
+## WoW Developer Portal and Frame UI  
 - Sign up for a developer account to get direct access to official documentation - https://www.youtube.com/watch?v=SNdDa4_aN-8 
 - You can download interface code and art files to see exposed code showing how the interface is setup - https://www.youtube.com/watch?v=0Z3b0SJuvI0 
 - Wow ui is predominantly created through frame commands (objects such as buttons and sliders are categorized as frames through the interface api 
