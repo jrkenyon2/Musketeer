@@ -46,3 +46,9 @@ Start Date: 5/25/2022
   - repeat/until is do/while (no 'end' keyword)
   - for/each is for [key, value] /in [iterator]table /do/end
   - no switch/case
+&nbsp;
+##WoW Developer Portal and Frame UI  
+- Sign up for a developer account to get direct access to official documentation - https://www.youtube.com/watch?v=SNdDa4_aN-8 
+- You can download interface code and art files to see exposed code showing how the interface is setup - https://www.youtube.com/watch?v=0Z3b0SJuvI0 
+- Wow ui is predominantly created through frame commands (objects such as buttons and sliders are categorized as frames through the interface api 
+- The most common way to interact with the ui is to attach your code to the parent ui frame (I.e. if I make a new menu element I would add it to the game by adding it to the list of frames registered by the main ui frame through inheritance) 
